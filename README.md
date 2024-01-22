@@ -1,7 +1,7 @@
 Overview
 ========
 
-In this virtual hands-on lab, you will follow a step-by-step guide to using Airflow with dbt to create data transformation job schedulers. This repo follows this guide: https://quickstarts.snowflake.com/guide/data_engineering_with_apache_airflow/index.html?index=..%2F..index#0
+In this project you will use Airflow with dbt to create data transformation job schedulers. This repo follows this guide: https://quickstarts.snowflake.com/guide/data_engineering_with_apache_airflow/index.html?index=..%2F..index#0
 
 Deploy Your Project Locally
 ===========================
